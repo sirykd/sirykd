@@ -15,10 +15,14 @@ Please refer to my [LinkedIn](https://www.linkedin.com/in/sirykd) for an overvie
 Hopefully, I will be in the mood to fill this readme in more detail and have some pet projects to show to the public sometime.
 <br>
 <br>
-For now, my public GitHub limits to contributing bug fixes to some of the repositories I have used in the past:
+For now, my public GitHub is limited to contributions to some repositories that I have used in the past:
 
-1. Fixed the post-processing for 3D Object Detection in [CenterNet](https://github.com/xingyizhou/CenterNet/pull/629), which improved the Average Orientation Similarity (AOS) metric.
-2. Fixed the gradient flow of critic loss in GANLoss module of [fastai2](https://github.com/fastai/fastai2/pull/252).
-3. Fixed the command-line-based schema validation by [Yamale](https://github.com/23andMe/Yamale/pull/191) in environments without Unicode support.
-4. Fixed a command in the CI workflows of [fastcore](https://github.com/fastai/fastcore/pull/19), [nbdev](https://github.com/fastai/nbdev/pull/125), and [fastai2](https://github.com/fastai/fastai2/pull/254).
-   <img src="https://user-images.githubusercontent.com/23129117/173206223-b5a5e895-9fd5-4eeb-9728-0f7e0e9d4be4.png" width="50%">
+Repo | Contribution
+---- | ------------
+**[fastai](https://github.com/fastai/fastai)<br>[fastai2](https://github.com/fastai/fastai2)** | Fixed [the gradient flow of critic loss in `GANLoss` module](https://github.com/fastai/fastai2/pull/252)<br>Fixed [a bug in `GANLearner`](https://github.com/fastai/fastai2/pull/253)
+**[CenterNet](https://github.com/xingyizhou/CenterNet)** | Fixed [the post-processing for 3D Object Detection](https://github.com/xingyizhou/CenterNet/pull/629), which improved the Average Orientation Similarity metric
+**[bundle-adjusting-NeRF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)** | Reduced [GPU memory consumption](https://github.com/chenhsuanlin/bundle-adjusting-NeRF/pull/41) wrt the output image size
+**[Yamale](https://github.com/23andMe/Yamale)** | Fixed [the command-line-based schema validation](https://github.com/23andMe/Yamale/pull/191) in environments without Unicode support
+**[nbdev](https://github.com/fastai/nbdev)<br>[fastcore](https://github.com/fastai/fastcore)<br>[fastai2](https://github.com/fastai/fastai2)** | Fixed a command in the CI workflow in [here](https://github.com/fastai/nbdev/pull/125) [and](https://github.com/fastai/fastcore/pull/19) [there](https://github.com/fastai/fastai2/pull/254)
+
+<img src="https://user-images.githubusercontent.com/23129117/173206223-b5a5e895-9fd5-4eeb-9728-0f7e0e9d4be4.png" width="50%">
