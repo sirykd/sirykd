@@ -20,9 +20,9 @@ For now, my public GitHub is limited to contributions to some repositories that 
 Repo | Contribution
 ---- | ------------
 **[fastai](https://github.com/fastai/fastai)<br>[fastai2](https://github.com/fastai/fastai2)** | Fixed [the gradient flow of critic loss in `GANLoss` module](https://github.com/fastai/fastai2/pull/252)<br>Fixed [a bug in `GANLearner`](https://github.com/fastai/fastai2/pull/253)
-**[CenterNet](https://github.com/xingyizhou/CenterNet)** | Fixed [the post-processing for 3D Object Detection](https://github.com/xingyizhou/CenterNet/pull/629), which improved the Average Orientation Similarity metric
+**[CenterNet](https://github.com/xingyizhou/CenterNet)** | Fixed [the post-processing for 3D Object Detection](https://github.com/xingyizhou/CenterNet/pull/629), which improved the Average Orientation Similarity (AOS) metric
 **[bundle-adjusting-NeRF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)** | Reduced [GPU memory consumption](https://github.com/chenhsuanlin/bundle-adjusting-NeRF/pull/41) wrt the output image size
 **[Yamale](https://github.com/23andMe/Yamale)** | Fixed [the command-line-based schema validation](https://github.com/23andMe/Yamale/pull/191) in environments without Unicode support
-**[nbdev](https://github.com/fastai/nbdev)<br>[fastcore](https://github.com/fastai/fastcore)<br>[fastai2](https://github.com/fastai/fastai2)** | Fixed a command in the CI workflow in [here](https://github.com/fastai/nbdev/pull/125) [and](https://github.com/fastai/fastcore/pull/19) [there](https://github.com/fastai/fastai2/pull/254)
+**[nbdev](https://github.com/fastai/nbdev)<br>[fastcore](https://github.com/fastai/fastcore)<br>[fastai2](https://github.com/fastai/fastai2)** | Fixed a command in the CI workflow [here](https://github.com/fastai/nbdev/pull/125) [and](https://github.com/fastai/fastcore/pull/19) [there](https://github.com/fastai/fastai2/pull/254)
 
 <img src="https://user-images.githubusercontent.com/23129117/173206223-b5a5e895-9fd5-4eeb-9728-0f7e0e9d4be4.png" width="50%">
