@@ -7,7 +7,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 
-I am a Computer Vision Engineer from Ukraine 🇺🇦 living in Vienna 🇦🇹.
+I am a Computer Vision and Machine Learning Engineer from Ukraine 🇺🇦 living in Vienna 🇦🇹.
 <br>
 Please refer to my [LinkedIn](https://www.linkedin.com/in/sirykd) for an overview of my experience.
 <br>
